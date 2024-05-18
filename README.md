@@ -8,7 +8,7 @@
 A Collection Build Project
 
 ## How to use
-<img src="/image/1.jpg" width="30%" height="100%" /> | <img src="/image/2.jpg" width="30%" height="100%" /> | <img src="/image/3.jpg" width="30%" height="100%" /> | <img src="/image/4.jpg" width="30%" height="100%" /> | <img src="/image/5.jpg" width="30%" height="100%" /> | <img src="/image/6.jpg" width="30%" height="100%" />
+<img src="/image/1.jpeg" width="30%" height="100%" /> | <img src="/image/2.jpeg" width="30%" height="100%" /> | <img src="/image/3.jpeg" width="30%" height="100%" /> | <img src="/image/4.jpeg" width="30%" height="100%" /> | <img src="/image/5.jpeg" width="30%" height="100%" /> | <img src="/image/6.jpeg" width="30%" height="100%" />
 
 ## Tech Stack
 
